@@ -1,0 +1,113 @@
+E:\DATA Daily Backup\projects\Attachment\Attachment\bin\ApplicationInsights.config
+E:\DATA Daily Backup\projects\Attachment\Attachment\bin\roslyn\csc.exe
+E:\DATA Daily Backup\projects\Attachment\Attachment\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\DATA Daily Backup\projects\Attachment\Attachment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\DATA Daily Backup\projects\Attachment\Attachment\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\DATA Daily Backup\projects\Attachment\Attachment\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\DATA Daily Backup\projects\Attachment\Attachment\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\DATA Daily Backup\projects\Attachment\Attachment\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\DATA Daily Backup\projects\Attachment\Attachment\bin\roslyn\System.Collections.Immutable.dll
+E:\DATA Daily Backup\projects\Attachment\Attachment\bin\roslyn\System.Reflection.Metadata.dll
+E:\DATA Daily Backup\projects\Attachment\Attachment\bin\roslyn\vbc.exe
+E:\DATA Daily Backup\projects\Attachment\Attachment\bin\roslyn\VBCSCompiler.exe
+E:\DATA Daily Backup\projects\Attachment\Attachment\bin\roslyn\VBCSCompiler.exe.config
+E:\DATA Daily Backup\projects\Attachment\Attachment\bin\Attachment.dll.config
+E:\DATA Daily Backup\projects\Attachment\Attachment\bin\Attachment.dll
+E:\DATA Daily Backup\projects\Attachment\Attachment\bin\Attachment.pdb
+E:\DATA Daily Backup\projects\Attachment\Attachment\bin\Microsoft.AI.Agent.Intercept.dll
+E:\DATA Daily Backup\projects\Attachment\Attachment\bin\Microsoft.AI.DependencyCollector.dll
+E:\DATA Daily Backup\projects\Attachment\Attachment\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\DATA Daily Backup\projects\Attachment\Attachment\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\DATA Daily Backup\projects\Attachment\Attachment\bin\Microsoft.AI.Web.dll
+E:\DATA Daily Backup\projects\Attachment\Attachment\bin\Microsoft.AI.WindowsServer.dll
+E:\DATA Daily Backup\projects\Attachment\Attachment\bin\Microsoft.ApplicationInsights.dll
+E:\DATA Daily Backup\projects\Attachment\Attachment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\DATA Daily Backup\projects\Attachment\Attachment\bin\Microsoft.AI.DependencyCollector.xml
+E:\DATA Daily Backup\projects\Attachment\Attachment\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\DATA Daily Backup\projects\Attachment\Attachment\bin\Microsoft.AI.Web.xml
+E:\DATA Daily Backup\projects\Attachment\Attachment\bin\Microsoft.AI.WindowsServer.xml
+E:\DATA Daily Backup\projects\Attachment\Attachment\bin\Microsoft.ApplicationInsights.xml
+E:\DATA Daily Backup\projects\Attachment\Attachment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\DATA Daily Backup\projects\Attachment\Attachment\obj\Release\Attachment.dll
+E:\DATA Daily Backup\projects\Attachment\Attachment\obj\Release\Attachment.pdb
+E:\DATA Daily Backup\projects\Attachment\Attachment\obj\Release\Attachment.csproj.ResolveComReference.cache
+E:\DATA Daily Backup\projects\Attachment\Attachment\obj\Release\Attachment.csprojResolveAssemblyReference.cache
+E:\DATA Daily Backup\projects\Attachment\Attachment\bin\AjaxControlToolkit.dll
+E:\DATA Daily Backup\projects\Attachment\Attachment\bin\HtmlAgilityPack.dll
+E:\DATA Daily Backup\projects\Attachment\Attachment\bin\HtmlAgilityPack.pdb
+E:\DATA Daily Backup\projects\Attachment\Attachment\bin\HtmlAgilityPack.xml
+E:\DATA Daily Backup\Projects Backup\Attachment\Attachment\bin\ApplicationInsights.config
+E:\DATA Daily Backup\Projects Backup\Attachment\Attachment\bin\roslyn\csc.exe
+E:\DATA Daily Backup\Projects Backup\Attachment\Attachment\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\DATA Daily Backup\Projects Backup\Attachment\Attachment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\DATA Daily Backup\Projects Backup\Attachment\Attachment\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\DATA Daily Backup\Projects Backup\Attachment\Attachment\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\DATA Daily Backup\Projects Backup\Attachment\Attachment\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\DATA Daily Backup\Projects Backup\Attachment\Attachment\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\DATA Daily Backup\Projects Backup\Attachment\Attachment\bin\roslyn\System.Collections.Immutable.dll
+E:\DATA Daily Backup\Projects Backup\Attachment\Attachment\bin\roslyn\System.Reflection.Metadata.dll
+E:\DATA Daily Backup\Projects Backup\Attachment\Attachment\bin\roslyn\vbc.exe
+E:\DATA Daily Backup\Projects Backup\Attachment\Attachment\bin\roslyn\VBCSCompiler.exe
+E:\DATA Daily Backup\Projects Backup\Attachment\Attachment\bin\roslyn\VBCSCompiler.exe.config
+E:\DATA Daily Backup\Projects Backup\Attachment\Attachment\bin\Attachment.dll.config
+E:\DATA Daily Backup\Projects Backup\Attachment\Attachment\bin\Attachment.dll
+E:\DATA Daily Backup\Projects Backup\Attachment\Attachment\bin\Attachment.pdb
+E:\DATA Daily Backup\Projects Backup\Attachment\Attachment\bin\HtmlAgilityPack.dll
+E:\DATA Daily Backup\Projects Backup\Attachment\Attachment\bin\Microsoft.AI.Agent.Intercept.dll
+E:\DATA Daily Backup\Projects Backup\Attachment\Attachment\bin\Microsoft.AI.DependencyCollector.dll
+E:\DATA Daily Backup\Projects Backup\Attachment\Attachment\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\DATA Daily Backup\Projects Backup\Attachment\Attachment\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\DATA Daily Backup\Projects Backup\Attachment\Attachment\bin\Microsoft.AI.Web.dll
+E:\DATA Daily Backup\Projects Backup\Attachment\Attachment\bin\Microsoft.AI.WindowsServer.dll
+E:\DATA Daily Backup\Projects Backup\Attachment\Attachment\bin\Microsoft.ApplicationInsights.dll
+E:\DATA Daily Backup\Projects Backup\Attachment\Attachment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\DATA Daily Backup\Projects Backup\Attachment\Attachment\bin\HtmlAgilityPack.pdb
+E:\DATA Daily Backup\Projects Backup\Attachment\Attachment\bin\HtmlAgilityPack.xml
+E:\DATA Daily Backup\Projects Backup\Attachment\Attachment\bin\Microsoft.AI.DependencyCollector.xml
+E:\DATA Daily Backup\Projects Backup\Attachment\Attachment\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\DATA Daily Backup\Projects Backup\Attachment\Attachment\bin\Microsoft.AI.Web.xml
+E:\DATA Daily Backup\Projects Backup\Attachment\Attachment\bin\Microsoft.AI.WindowsServer.xml
+E:\DATA Daily Backup\Projects Backup\Attachment\Attachment\bin\Microsoft.ApplicationInsights.xml
+E:\DATA Daily Backup\Projects Backup\Attachment\Attachment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\DATA Daily Backup\Projects Backup\Attachment\Attachment\obj\Release\Attachment.csprojResolveAssemblyReference.cache
+E:\DATA Daily Backup\Projects Backup\Attachment\Attachment\obj\Release\Attachment.csproj.ResolveComReference.cache
+E:\DATA Daily Backup\Projects Backup\Attachment\Attachment\obj\Release\Attachment.dll
+E:\DATA Daily Backup\Projects Backup\Attachment\Attachment\obj\Release\Attachment.pdb
+E:\DATA Daily Backup\projects\Attachment (ERP DB)\Attachment\bin\ApplicationInsights.config
+E:\DATA Daily Backup\projects\Attachment (ERP DB)\Attachment\bin\roslyn\csc.exe
+E:\DATA Daily Backup\projects\Attachment (ERP DB)\Attachment\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\DATA Daily Backup\projects\Attachment (ERP DB)\Attachment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\DATA Daily Backup\projects\Attachment (ERP DB)\Attachment\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\DATA Daily Backup\projects\Attachment (ERP DB)\Attachment\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\DATA Daily Backup\projects\Attachment (ERP DB)\Attachment\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\DATA Daily Backup\projects\Attachment (ERP DB)\Attachment\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\DATA Daily Backup\projects\Attachment (ERP DB)\Attachment\bin\roslyn\System.Collections.Immutable.dll
+E:\DATA Daily Backup\projects\Attachment (ERP DB)\Attachment\bin\roslyn\System.Reflection.Metadata.dll
+E:\DATA Daily Backup\projects\Attachment (ERP DB)\Attachment\bin\roslyn\vbc.exe
+E:\DATA Daily Backup\projects\Attachment (ERP DB)\Attachment\bin\roslyn\VBCSCompiler.exe
+E:\DATA Daily Backup\projects\Attachment (ERP DB)\Attachment\bin\roslyn\VBCSCompiler.exe.config
+E:\DATA Daily Backup\projects\Attachment (ERP DB)\Attachment\bin\Attachment.dll.config
+E:\DATA Daily Backup\projects\Attachment (ERP DB)\Attachment\bin\Attachment.dll
+E:\DATA Daily Backup\projects\Attachment (ERP DB)\Attachment\bin\Attachment.pdb
+E:\DATA Daily Backup\projects\Attachment (ERP DB)\Attachment\bin\AjaxControlToolkit.dll
+E:\DATA Daily Backup\projects\Attachment (ERP DB)\Attachment\bin\HtmlAgilityPack.dll
+E:\DATA Daily Backup\projects\Attachment (ERP DB)\Attachment\bin\Microsoft.AI.Agent.Intercept.dll
+E:\DATA Daily Backup\projects\Attachment (ERP DB)\Attachment\bin\Microsoft.AI.DependencyCollector.dll
+E:\DATA Daily Backup\projects\Attachment (ERP DB)\Attachment\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\DATA Daily Backup\projects\Attachment (ERP DB)\Attachment\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\DATA Daily Backup\projects\Attachment (ERP DB)\Attachment\bin\Microsoft.AI.Web.dll
+E:\DATA Daily Backup\projects\Attachment (ERP DB)\Attachment\bin\Microsoft.AI.WindowsServer.dll
+E:\DATA Daily Backup\projects\Attachment (ERP DB)\Attachment\bin\Microsoft.ApplicationInsights.dll
+E:\DATA Daily Backup\projects\Attachment (ERP DB)\Attachment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\DATA Daily Backup\projects\Attachment (ERP DB)\Attachment\bin\HtmlAgilityPack.pdb
+E:\DATA Daily Backup\projects\Attachment (ERP DB)\Attachment\bin\HtmlAgilityPack.xml
+E:\DATA Daily Backup\projects\Attachment (ERP DB)\Attachment\bin\Microsoft.AI.DependencyCollector.xml
+E:\DATA Daily Backup\projects\Attachment (ERP DB)\Attachment\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\DATA Daily Backup\projects\Attachment (ERP DB)\Attachment\bin\Microsoft.AI.Web.xml
+E:\DATA Daily Backup\projects\Attachment (ERP DB)\Attachment\bin\Microsoft.AI.WindowsServer.xml
+E:\DATA Daily Backup\projects\Attachment (ERP DB)\Attachment\bin\Microsoft.ApplicationInsights.xml
+E:\DATA Daily Backup\projects\Attachment (ERP DB)\Attachment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\DATA Daily Backup\projects\Attachment (ERP DB)\Attachment\obj\Release\Attachment.csprojResolveAssemblyReference.cache
+E:\DATA Daily Backup\projects\Attachment (ERP DB)\Attachment\obj\Release\Attachment.csproj.ResolveComReference.cache
+E:\DATA Daily Backup\projects\Attachment (ERP DB)\Attachment\obj\Release\Attachment.dll
+E:\DATA Daily Backup\projects\Attachment (ERP DB)\Attachment\obj\Release\Attachment.pdb
